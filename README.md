@@ -160,13 +160,21 @@ Open the notebook and run the cells sequentially.
 
 ## 🎯 Future Improvements
 Add a detailed model-performance comparison table
+
 Add confusion matrix visualizations
+
 Analyze false positives and false negatives
+
 Add feature-importance analysis
+
 Compare ROC-AUC and PR-AUC
+
 Create a Streamlit prediction interface
+
 Deploy the final model
+
 Improve the project structure by separating preprocessing and training code
+
 ## 👨‍💻 Author
 
 Saksham Sharma
